@@ -5,7 +5,14 @@
 <a href="https://www.instagram.com/_moises.prz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <br>
 <h2>Sobre mi :)</h2>
-Estudiante de ingeniería en Desarrollo de Software
+<p>
+  - Estudiante de ingeniería en Desarrollo de Software
+</p>
+<br>
+<h2>Tecnologías conocidas</h2>
+<p>
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev);
+</p>
 
 <!--
 **mois3s-perez/mois3s-perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
