@@ -9,10 +9,10 @@
   - Estudiante de ingeniería en Desarrollo de Software
 </p>
 <br>
-<h2>Tecnologías conocidas</h2>
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,cs,py,java" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,js,laravel,html,css,cs,py,java" />
   </a>
 </p>
 
