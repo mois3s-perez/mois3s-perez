@@ -4,7 +4,7 @@
 <h2>Redes sociales</h2>
 <a href="https://www.facebook.com/moises.perez.307540"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.instagram.com/_moises.prz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
+<br>
 <h2>Sobre mi :)</h2>
 <!--Intro start-->
 Estudiante de ingeniería en Desarrollo de Software
