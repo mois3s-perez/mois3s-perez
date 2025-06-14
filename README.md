@@ -1,6 +1,7 @@
 
 <h1 align="center"> Hola 👋 soy Moisés</h1>
 
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 <!--
 **mois3s-perez/mois3s-perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
