@@ -12,7 +12,7 @@
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,js,laravel,html,css,cs,py,java" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,js,laravel,html,css,cs,py,java,bootstrap,idea,vscode" />
   </a>
 </p>
 
