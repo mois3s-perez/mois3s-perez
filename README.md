@@ -1,4 +1,5 @@
-## Hola 👋 soy Moisés
+
+<h1 align="center"> Hola 👋 soy Moisés</h1>
 
 <!--
 **mois3s-perez/mois3s-perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
