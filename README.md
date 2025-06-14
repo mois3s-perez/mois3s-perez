@@ -17,7 +17,7 @@
 </p>
 
 <br/>
-   <buttom type="hidde"><a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin'%20Thomas's%20Contribution%20Graph&theme=react-dark" /></a></buttom>
+   <buttom type="hidde"><a href="https://github.com/itsmeshibintmz"><img src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin'%20Thomas's%20Contribution%20Graph&theme=react-dark" /></a></buttom>
   <br/>
 <br/>
 
