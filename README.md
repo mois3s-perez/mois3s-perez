@@ -10,9 +10,9 @@
 </p>
 <br>
 <h2>Tecnologías conocidas</h2>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,cs,py,java" />
   </a>
 </p>
 
